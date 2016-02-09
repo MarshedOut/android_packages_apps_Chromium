@@ -1,0 +1,5 @@
+Chromium for Android Devices
+===========
+
+Chromium builds for Android are taken from http://chromium.woolyss.com/. Future builds will be built from the source using custom toolchains to improve performance, and will have debugging removed to reduce build time and file size.
+
